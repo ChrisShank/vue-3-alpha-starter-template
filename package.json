@@ -1,0 +1,16 @@
+{
+	"name": "vue-3",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"scripts": {
+		"dev": "parcel src/index.html"
+	},
+	"dependencies": {
+		"parcel-bundler": "^1.12.4",
+		"vue": "next"
+	},
+	"devDependencies": {
+		"typescript": "^3.7.4"
+	}
+}
