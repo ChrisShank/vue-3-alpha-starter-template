@@ -15,6 +15,6 @@
 		"typescript": "^3.7.4"
 	},
 	"alias": {
-		"vue": "./node_modules/vue/dist/vue.esm.js"
+		"vue": "./node_modules/vue/dist/vue.bundler-esm.js"
 	}
 }
