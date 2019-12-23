@@ -1,7 +1,7 @@
 # Vue 3 Alpha Starter Template
 This repository contains a simple starter template to experiment with the alpha version of Vue 3. 
 
-**DISCLAIMER: Do not expect for Vue to be perfect since it was literally just released in alpha.** 
+**DISCLAIMER: Do not expect Vue to be perfect since it was just released alpha.** 
 
 ParcelJS is used to bundler the SPA. Typescript is used to make it easier to explore the new API since there is limited documentation.
 
