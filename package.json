@@ -9,7 +9,7 @@
 	},
 	"dependencies": {
 		"parcel-bundler": "^1.12.4",
-		"vue": "next"
+		"vue": "3.0.0-alpha.1"
 	},
 	"devDependencies": {
 		"typescript": "^3.7.4"
